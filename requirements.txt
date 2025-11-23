@@ -1,1 +1,5 @@
 cryptography
+streamlit
+pandas
+graphviz
+
